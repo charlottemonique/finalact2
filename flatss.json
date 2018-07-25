@@ -9,15 +9,6 @@
     "lng": 120.3551
   },
   {
-    "id": 148,
-    "name": "Urbiztondo Beach, San Juan, La Union",
-    "imageUrl": "https://raw.github.com/charlottemonique/act3/master/beach.jpg",
-    "price": 00,
-    "priceCurrency": "₱",
-    "lat": 16.6720,
-    "lng": 120.3628
-  },
-  {
     "id": 201,
     "name": "Tangadan Falls, San Gabriel, La Union",
      "price": 10,
@@ -25,15 +16,6 @@
     "priceCurrency": "₱",
     "lat": 16.6694,
     "lng": 120.5049
-  },
-  {
-    "id": 205,
-    "name": "Grape Farm, Bauang, La Union",
-    "imageUrl": "https://raw.github.com/charlottemonique/act3/master/grapefarm.jpg",
-    "price": 250,
-    "priceCurrency": "₱",
-    "lat": 16.4664,
-    "lng": 120.3335
   },
   {
     "id": 210,
